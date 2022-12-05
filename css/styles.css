@@ -591,7 +591,7 @@ body {
   font-size: 18px;
   line-height: calc(28 / 18);
   letter-spacing: 0.03em;
-  transform: translateY(100%);
+  transform: translateY(101%);
   transition: transform 250ms var(--timing-function);
 }
 
